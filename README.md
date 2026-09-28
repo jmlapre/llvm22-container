@@ -1,4 +1,4 @@
-# sst-clang18
+# sst-clang22
 
 This repo contains the Docker recipes for the sst-clang22 image located at:
 
